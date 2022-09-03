@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "author": "ΛBYSSΛL#1983",
+        "name": "Blueberry ",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -14188851,
+        "background": -16379363,
+        "background_secondary": -15914944,
+        "mention_highlight": -15118208,
+        "active_channel": -15118208,
+        "input_background": -16777216,
+        "blocked_bg": -2673622
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
