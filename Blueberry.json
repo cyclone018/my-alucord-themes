@@ -2,7 +2,8 @@
     "manifest": {
         "author": "ΛBYSSΛL#1983",
         "name": "Blueberry ",
-        "version": "1.0.0"
+        "version": "1.0.1",
+        "updater": "https:\/\/github.com\/cyclone018\/my-alucord-themes\/blob\/main\/Blueberry.json"
     },
     "background": {},
     "fonts": {},
